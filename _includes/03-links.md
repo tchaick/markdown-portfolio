@@ -1,1 +1,1 @@
-[Juanito LinkedIn] (https://www.linkedin.com/in/johnjavieriii/)
+![Juanito LinkedIn] (https://www.linkedin.com/in/johnjavieriii/)
