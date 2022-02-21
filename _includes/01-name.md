@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Welcome to Juanito Learns Page #
+## This is my coding playground ##
